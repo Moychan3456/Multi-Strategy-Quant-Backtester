@@ -1,8 +1,8 @@
-# ===========================================
+# ============================================
 # NOTE: This is a simplified demo script
 # The real proprietary strategy logic is not shared.
 # This file is for showcasing backtester architecture only.
-# ===========================================
+# ============================================
 
 from datetime import datetime
 import pandas as pd
