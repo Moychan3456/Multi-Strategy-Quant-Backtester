@@ -66,7 +66,7 @@ def strategy2(df):
     return trades
 
 # ================================
-#   STRATEGY 3 (random breakout)
+#   STRATEGY 3 (breakout)
 # ================================
 def strategy3(df):
     trades = []
