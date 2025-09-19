@@ -5,7 +5,7 @@ It combines three independent price-action strategies with dynamic risk manageme
 
 🚀 **Goal:** Demonstrate quantitative research, portfolio thinking, and risk-adjusted evaluation of trading strategies.
 
----
+----
 
 ## 🔑 Features
 
