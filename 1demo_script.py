@@ -36,7 +36,7 @@ df_resampled = pd.DataFrame({
 }, index=dates)
 
 # ================================
-#   STRATEGY 1 (simple bullish pattern)
+#   STRATEGY 1 (bullish pattern)
 # ================================
 def strategy1(df):
     trades = []
@@ -51,7 +51,7 @@ def strategy1(df):
     return trades
 
 # ================================
-#   STRATEGY 2 (simple bearish pattern)
+#   STRATEGY 2 (bearish pattern)
 # ================================
 def strategy2(df):
     trades = []
