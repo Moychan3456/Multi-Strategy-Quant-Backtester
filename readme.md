@@ -1,4 +1,4 @@
-# 📊 Multi-Strategy Quant Backtester
+# 📊 Strategy-Risk Evaluation Framework
 
 This project implements a **multi-strategy backtesting framework** for FX trading on the **4H timeframe**.
 It combines three independent price-action strategies with dynamic risk management and evaluates them through professional performance metrics, risk analysis, and Monte Carlo simulations. While this backtest uses FX data, the framework and methodology are fully transferable to Indian equity derivatives (F&O) markets. The approach and risk management principles were developed from my experience trading options on NSE/BSE.
