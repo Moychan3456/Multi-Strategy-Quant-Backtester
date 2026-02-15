@@ -53,19 +53,19 @@ It combines three independent price-action strategies with dynamic risk manageme
 
 ### Equity Curve & Drawdowns
 
-![Equity Curve](equity_&_drawdown.png)
+![Equity Curve](Figure/equity_&_drawdown.png)
 
 ### Monte Carlo Simulations
 
-![Monte Carlo](monte_carlo.png)
+![Monte Carlo](Figure/monte_carlo.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](Figure/correlation_heatmap.png)
 
 ### Trade Return Distribution
 
-![Histogram](trade_histogram.png)
+![Histogram](Figure/trade_histogram.png)
 
 ---
 
